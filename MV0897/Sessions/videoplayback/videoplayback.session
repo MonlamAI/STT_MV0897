@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Session version="2.0">
+<Session>
   <genre type="string">&lt;Unknown&gt;</genre>
   <date type="string">2023-08-21</date>
   <status type="string">Incoming</status>
-  <participants type="string"></participants>
-  <contributions type="xml" />
 </Session>
